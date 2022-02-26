@@ -14,6 +14,12 @@ IMAGES = [
     "war2.jpeg",
     "war3.jpeg",
     "war4.jpeg",
+    "war6.jpg",
+    "war7.jpg",
+    "war8.jpg",
+    "war9.jpg",
+    "war10.jpg",
+    "war11.jpg",
 ]
 
 
